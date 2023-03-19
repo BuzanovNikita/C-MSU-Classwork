@@ -35,6 +35,7 @@ int main(){
 
     PrintBits( output );
     printf("%hu\n", output);
+    //The end
     return 0;
 }
 
